@@ -7,6 +7,10 @@ There HeroesOfPymoli.ipynb within the HeroesOfPymoli folder is the final solutio
 
 There is a Pymoli_test.ipynb within in the folder; that was soley for testing my solutions. Please ignore. 
 
+I welcome detailed feedback to help me grow in this field. 
+
+Thank you for stopping by and have a wonderful day. 
+
 # <b>Observations</b>
 <b>1.</b> The first observation that was made was the male to female ratio difference. Out of 576 players; 484 players were men leaving the remaining (81) females/Non-Discolsed. It could be determined by this observation that this is a male dominate game.
 
